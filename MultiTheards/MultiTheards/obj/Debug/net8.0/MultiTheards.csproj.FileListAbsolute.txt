@@ -1,0 +1,14 @@
+C:\Users\murad\OneDrive\Desktop\Code\SP\MultiTheards\MultiTheards\bin\Debug\net8.0\MultiTheards.exe
+C:\Users\murad\OneDrive\Desktop\Code\SP\MultiTheards\MultiTheards\bin\Debug\net8.0\MultiTheards.deps.json
+C:\Users\murad\OneDrive\Desktop\Code\SP\MultiTheards\MultiTheards\bin\Debug\net8.0\MultiTheards.runtimeconfig.json
+C:\Users\murad\OneDrive\Desktop\Code\SP\MultiTheards\MultiTheards\bin\Debug\net8.0\MultiTheards.dll
+C:\Users\murad\OneDrive\Desktop\Code\SP\MultiTheards\MultiTheards\bin\Debug\net8.0\MultiTheards.pdb
+C:\Users\murad\OneDrive\Desktop\Code\SP\MultiTheards\MultiTheards\obj\Debug\net8.0\MultiTheards.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\murad\OneDrive\Desktop\Code\SP\MultiTheards\MultiTheards\obj\Debug\net8.0\MultiTheards.AssemblyInfoInputs.cache
+C:\Users\murad\OneDrive\Desktop\Code\SP\MultiTheards\MultiTheards\obj\Debug\net8.0\MultiTheards.AssemblyInfo.cs
+C:\Users\murad\OneDrive\Desktop\Code\SP\MultiTheards\MultiTheards\obj\Debug\net8.0\MultiTheards.csproj.CoreCompileInputs.cache
+C:\Users\murad\OneDrive\Desktop\Code\SP\MultiTheards\MultiTheards\obj\Debug\net8.0\MultiTheards.dll
+C:\Users\murad\OneDrive\Desktop\Code\SP\MultiTheards\MultiTheards\obj\Debug\net8.0\refint\MultiTheards.dll
+C:\Users\murad\OneDrive\Desktop\Code\SP\MultiTheards\MultiTheards\obj\Debug\net8.0\MultiTheards.pdb
+C:\Users\murad\OneDrive\Desktop\Code\SP\MultiTheards\MultiTheards\obj\Debug\net8.0\MultiTheards.genruntimeconfig.cache
+C:\Users\murad\OneDrive\Desktop\Code\SP\MultiTheards\MultiTheards\obj\Debug\net8.0\ref\MultiTheards.dll
